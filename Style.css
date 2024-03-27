@@ -4,3 +4,8 @@
   font-weight: <weight>;
   font-style: normal;
 }
+body {
+  position:absolute;
+  top:20px;
+  left:500px;
+}
