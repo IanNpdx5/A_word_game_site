@@ -4,3 +4,6 @@
   font-weight: 400;
   font-style: normal;
 }
+#clicker {
+  border: 10px groove rgb(105, 105, 105);
+}
