@@ -5,8 +5,5 @@
   font-style: normal;
 }
 #clicker {
-  border: 10px groove rgb(105, 105, 105);
-}
-body {
-  position: centered;
+  border: 10px groove rgba(105, 105, 105, 0);
 }
