@@ -4,6 +4,6 @@
   font-weight: 400;
   font-style: normal;
 }
-#clicker {
+button {
   border: 10px groove rgba(105, 105, 105, 0);
 }
