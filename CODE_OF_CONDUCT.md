@@ -81,4 +81,6 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 11. License and attribution
 
-All code is owned by its respective author and made available under the following license: `MIT license` [https://opensource.org/licenses/mit-license.php]
+All code is owned by its respective author and made available under the following license: `MIT license` what can be found at [https://opensource.org/licenses/mit-license.php]
+
+for more infomation please look at the LICENSE file that can be found at [https://github.com/IanNpdx5/A_word_game_site/blob/main/LICENSE]
