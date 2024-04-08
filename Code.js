@@ -1,1 +1,2 @@
-/** not yet **/
+grecaptcha.execute();
+grecaptcha.render();
