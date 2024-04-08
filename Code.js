@@ -1,1 +1,2 @@
 grecaptcha.execute();
+grecaptcha.render();
