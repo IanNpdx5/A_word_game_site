@@ -12,7 +12,20 @@
 </head>
 <body>
 <div class = "Orbitron">
-<h1>Welcome to A_site</h1>
+h1>Word game!</h1>
+    <form id="joke-form">
+        <label>
+            Unscramble these letters to form a word:<Br>
+            <span class="scrambled">wait...</span>
+            <br>
+            <input type="text" size="10" id = "answer">
+        </label>
+        <button type="submit">Check</button>
+        <br><br>
+        <div id = "joke-result"></div>
+        <br>
+        <div id = "score"></div>
+    </form>
 </div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="Code.js"></script>
