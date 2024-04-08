@@ -21,7 +21,7 @@ var answers = {
                 numscore++;
                 $score.text("Score: " + numscore);
                 return $("#joke-result").text("YOU GOT IT!").css("color", "green")
-            } if (i+1 === Canswer2.length) {
+            } else {
                 return $("#joke-result").text("Try again!").css("color", "red")   
             }};
     
@@ -31,7 +31,7 @@ var answers = {
             event.preventDefault();
             var $answer = $("#answer"); 
             var answer = $answer.val().toLowerCase();
-            var answersh = answers.CA[num];
+            var answersh = answers.CA[num].toLowerCase();
             check(answer, answersh);
             $answer.val("");
             }); 
