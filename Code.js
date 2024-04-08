@@ -1,6 +1,11 @@
 var answers = {
-        CA:["cookies", "nocans"], 
-        SAS:["IKOEOSC", "THE END (no correct answer)"]};
+        CA:["ALGORITHM", "APPLICATION", "BINARY", "BROWSER", "CLIENT", "COMMAND", "COMPUTER", "PROGRAM", "DASHBOARD", "DESKTOP", 
+            "FIREWALL", "FIRMWARE", "GRAPHICS", "HARDWARE", "JAVASCRIPT", "PLATFORM", "QWERTY", "SUPERCOMPUTER", "SYNTAX", 
+            "TERMINAL", "nocans"], 
+        SAS:["MATGIHLRO", "INTLIPPCAAO", "RYNAIB", "WBEORSR", "CTINEL", "MDMANOC", "RTMECPOU", "GRRPAOM", "HDASDROAB", "DOSPTKE", 
+             "FERWIALL", "FARRMEWI", "SRGHCIPA", "AHWRRADE", "RAJVASPICT", "LAMOFPTR", "RYQWET", "RMTCEEPROUPSU", "YTAXNS", 
+             "TMNALERI", "THE END (no correct answer)"]
+};
     var currintq = answers.SAS[0];
     var num = 0;
     var numscore = 0;
