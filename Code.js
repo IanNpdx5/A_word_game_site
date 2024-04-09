@@ -4,7 +4,7 @@ var answers = {
             "TERMINAL", "nocans"], 
         SAS:["MATGIHLRO", "INTLIPPCAAO", "RYNAIB", "WBEORSR", "CTINEL", "MDMANOC", "RTMECPOU", "GRRPAOM", "HDASDROAB", "DOSPTKE", 
              "FERWIALL", "FARRMEWI", "SRGHCIPA", "AHWRRADE", "RAJVASPICT", "LAMOFPTR", "RYQWET", "RMTCEEPROUPSU", "YTAXNS", 
-             "TMNALERI", "THE END (no correct answer)"]
+             "TMNALERI", "THE END to play again reload the page (no correct answer)"]
 };
     var currintq = answers.SAS[0];
     var num = 0;
